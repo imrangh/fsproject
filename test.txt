@@ -1,1 +1,2 @@
-test file created for git tutorial project
+Test file created for git tutorial project
+Modifying the test file for the Git tutorial task
